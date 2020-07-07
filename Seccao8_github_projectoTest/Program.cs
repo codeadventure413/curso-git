@@ -10,6 +10,10 @@ namespace Seccao8_github_projectoTest
     {
         static void Main(string[] args)
         {
+
+            Console.WriteLine("Olá Mundo");
+            Console.WriteLine("Bom dia");
+            Console.ReadLine();
         }
     }
 }

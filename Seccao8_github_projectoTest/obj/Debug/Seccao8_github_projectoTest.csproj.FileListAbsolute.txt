@@ -1,0 +1,6 @@
+C:\Users\Administrador\Desktop\Programação\Cursos\Udemy\C# Programação.O.O + projectos\Secção 8 - Introdução ao Git e Github\Seccao8_github_projectoTest\Seccao8_github_projectoTest\bin\Debug\Seccao8_github_projectoTest.exe.config
+C:\Users\Administrador\Desktop\Programação\Cursos\Udemy\C# Programação.O.O + projectos\Secção 8 - Introdução ao Git e Github\Seccao8_github_projectoTest\Seccao8_github_projectoTest\bin\Debug\Seccao8_github_projectoTest.exe
+C:\Users\Administrador\Desktop\Programação\Cursos\Udemy\C# Programação.O.O + projectos\Secção 8 - Introdução ao Git e Github\Seccao8_github_projectoTest\Seccao8_github_projectoTest\bin\Debug\Seccao8_github_projectoTest.pdb
+C:\Users\Administrador\Desktop\Programação\Cursos\Udemy\C# Programação.O.O + projectos\Secção 8 - Introdução ao Git e Github\Seccao8_github_projectoTest\Seccao8_github_projectoTest\obj\Debug\Seccao8_github_projectoTest.csprojAssemblyReference.cache
+C:\Users\Administrador\Desktop\Programação\Cursos\Udemy\C# Programação.O.O + projectos\Secção 8 - Introdução ao Git e Github\Seccao8_github_projectoTest\Seccao8_github_projectoTest\obj\Debug\Seccao8_github_projectoTest.exe
+C:\Users\Administrador\Desktop\Programação\Cursos\Udemy\C# Programação.O.O + projectos\Secção 8 - Introdução ao Git e Github\Seccao8_github_projectoTest\Seccao8_github_projectoTest\obj\Debug\Seccao8_github_projectoTest.pdb

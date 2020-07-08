@@ -13,6 +13,7 @@ namespace Seccao8_github_projectoTest
 
             Console.WriteLine("Olá Mundo");
             Console.WriteLine("Bom dia");
+            Console.WriteLine("Como voçe está hoje?");
             Console.ReadLine();
         }
     }
